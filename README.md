@@ -1,6 +1,5 @@
 # AppleMusicTextAnimation
-SwiftUIを使ったApple Musicのテキストアニメーションを再現
+SwiftUIを使ってApple Musicのテキストアニメーションを再現するプロジェクト
 
-参考動画
-SwiftUI 3.0 Marquee Text Animation - Apple Music Text Animation - Xcode 13 - SwiftUI Tutorials
+# 参考動画
 https://youtu.be/LMtmYdN7qOY
